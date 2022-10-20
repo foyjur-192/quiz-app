@@ -1,0 +1,24 @@
+/* Button Css  */
+.btnStyle{
+  width: 100%;
+  height: 50px;
+  padding: 15px 20px;
+  margin: 10px;
+  box-shadow: 0 0 1px gray;
+  border: 1px solid #00349c;
+  overflow: hidden;
+
+}
+
+
+.select{
+    background-color: rgb(17, 236, 53);
+    color: aliceblue;
+    box-shadow:0 0 1px #282c34;
+  }
+
+.wrong{
+  background-color: rgb(236, 17, 17);
+  color: aliceblue;
+  box-shadow:0 0 1px #282c34;
+}
